@@ -32,7 +32,7 @@ So building for all three Operating Systems will cost 130 minutes (20 * 2+10 * 1
 That is why we recommend you to modify the **os** line to only build for the OS that you need.
 |Operating System|Minutes|Minute multiplier
 |---|---|---|
-|Windows|20|2|
+|Windows|20|2| 
 |Ubuntu|10|1|
 |macOS|8|10|
 
